@@ -1,0 +1,10 @@
+tr.highlight td {
+  background-color: green;
+  font-weight: bold;
+}
+tr.highlightTop td {
+  background-color: rgb(40, 23, 114);
+  font-weight: bold;
+  font-style: italic;
+  color: aliceblue;
+}
